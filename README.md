@@ -8,17 +8,17 @@ Hi, I'm Prinsila! I'm a passionate developer with a knack for creating efficient
 
 - 🌱 I’m currently exploring **Data Analytics** and **AI**.
 - 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
-- 💬 Ask me about **Python**, **JavaScript**, and **web automation**.
+- 💬 Ask me about **Python**, **JavaScript**, and **PowerBI**.
 - 📫 How to reach me: [lakmalkehara@gmail.com](lakmalkehara@gmail.com)
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
 ## 📚 My Writing & Content
 
-I also enjoy sharing my knowledge through writing and blogging. Here are some of my latest posts:
+I also enjoy sharing my knowledge through Creating Wed Applications. Here are some of my latest posts:
 
 - 📝 [Getting Started with Web Automation](https://prinsila.github.io/my-Portfolio) - An introduction to automating web tasks using Python and Selenium.
 - 📖 [Building Scalable Web Applications](https://mixcraft-cocktail-recipes.netlify.app) - A guide to best practices for developing scalable and maintainable web applications.
-- 🗒️ [Data Visualization with Python](https://medium.com/@silentBob/data-visualization-with-python) - Exploring the power of data visualization using Python libraries.
+- 🗒️ [Data Visualization with Python](https://docs.google.com/presentation/d/1KtCsN6rqlxHRpJvhHNFiK_xIQr9N_vWy/edit?usp=sharing&ouid=101408784999611474049&rtpof=true&sd=true) - Exploring the power of data visualization using Python libraries.
 
 ## 📫 Connect with Me
 
