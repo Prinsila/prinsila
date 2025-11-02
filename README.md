@@ -16,13 +16,13 @@ Hi, I'm Prinsila! I'm a passionate developer with a knack for creating efficient
 
 I also enjoy sharing my knowledge through Creating Wed Applications. Here are some of my latest posts:
 
-- 📝 [Getting Started with Web Automation](https://prinsila.github.io/my-Portfolio) - An introduction to automating web tasks using Python and Selenium.
+- 📝 [Getting Started with Web Automation](https://prinsila.github.io/my-Portfolio) - An introduction to automating web tasks using JavaScript, HTML and CSS.
 - 📖 [Building Scalable Web Applications](https://mixcraft-cocktail-recipes.netlify.app) - A guide to best practices for developing scalable and maintainable web applications.
-- 🗒️ [Data Visualization with Python](https://docs.google.com/presentation/d/1KtCsN6rqlxHRpJvhHNFiK_xIQr9N_vWy/edit?usp=sharing&ouid=101408784999611474049&rtpof=true&sd=true) - Exploring the power of data visualization using Python libraries.
+- 🗒️ [Data Visualization with Python](https://docs.google.com/presentation/d/1KtCsN6rqlxHRpJvhHNFiK_xIQr9N_vWy/edit?usp=sharing&ouid=101408784999611474049&rtpof=true&sd=true) - Exploring the Data collecting, cleaning, analysing and power of data visualization using Python libraries and PowerBI.
 
 ## 📫 Connect with Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/prinsila-nilakshi-perera-659544283/) or check out my [personal website](https://silentbob.dev).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/prinsila-nilakshi-perera-659544283/) or check out my [personal website](https://prinsila.github.io/my-Portfolio).
 
 ## 🛠️ Tools I Use
 
@@ -37,4 +37,5 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/prinsila-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
+<img sec="https://icons8.com/icon/qYfwpsRXEcpc/power-bi" alt="powerbi" width="30" height="30"/>
 </p>
