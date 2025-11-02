@@ -37,5 +37,5 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/prinsila-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
-<img sec="https://icons8.com/icon/qYfwpsRXEcpc/power-bi" alt="powerbi" width="30" height="30"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/>
 </p>
